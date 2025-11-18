@@ -17,5 +17,5 @@ about:
   icon: https://avatars.githubusercontent.com/u/4265350?v=4
 source:
   project: https://github.com/mckinsey/vizro
-  commit: 7bddab69399e486c2d789e3a3fdf64a29c390f90
+  commit: d65f8b5686afaa952bbe2f5ffa5b7dd56425acae
   directory: vizro-mcp
