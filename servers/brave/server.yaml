@@ -12,7 +12,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/12301619?s=200&v=4
 source:
   project: https://github.com/brave/brave-search-mcp-server
-  commit: d9cc7cee4f7f885b6417568c7dba99ca0096e38b
+  commit: dfc463f977c5f23891b97b6412a222d9d8f65264
 config:
   description: Configure the Brave Search API connection
   secrets:
